@@ -1,5 +1,6 @@
 # Availability report for Statusengine 3 (MySQL Example)
 
+![Example Report](https://raw.githubusercontent.com/nook24/statusengine_availability/master/example/report.png)
 
 
 # Don’ts
